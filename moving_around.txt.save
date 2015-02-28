@@ -1,0 +1,86 @@
+history | less
+man less
+history
+~
+ls ..
+ls .
+ls.
+clear
+..
+ls
+cd anaconda/
+mkdir Projects
+cd ~/Library
+cd ~/Pictures
+cd
+cd..
+cd ..
+cd Photo\ Booth\ Library/
+cd P
+ls -l
+cd pictures
+ls -l 
+cd Downloads
+cd downloads
+cd desktop
+pwd
+cd 
+man git
+ll
+--help
+-h
+--h
+man ls
+man create
+man echo
+options
+help
+man touch
+man mkdir
+man -t
+man t
+t
+-t
+man l
+man -l
+flag
+flags
+man
+ls -rt 
+ls -r 
+ls -tl
+ls -lt
+ls -t
+cd /
+clear console
+git version
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+brew update
+uname
+unue
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'mdickson@gmail.com'
+git config --global user.name 'Mary Dickson'
+git --version
+brew install git
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew install fish
+brew info fish
+fish_update_completions 
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew doctor
+sudo xcodebuild -license
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ruby -e "$curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ruby -e "$curl -fsSL http://raw.github.com/Homebrew/install/master/install)"
+git
+exit
+python
+q
+
